@@ -387,7 +387,7 @@ Settings provides graphical access to configuration areas such as System, Blueto
 
 Students often confuse these:
 
-| Shortcut | Main Function |
+| Shortcut | Main Function  | 
 |---|---|
 | `Ctrl + Shift + Esc` | Opens Task Manager directly |
 | `Ctrl + Alt + Delete` | Opens the Windows security screen with several options |
