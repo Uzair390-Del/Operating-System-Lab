@@ -102,35 +102,6 @@
 
 ---
 
-## How to Use This Document
-
-This document is written to be **self-explanatory**: a student should be able to work through it alone, and an instructor should be able to teach from it directly.
-
-Throughout the document you will see these callouts:
-
-| Marker | Meaning |
-| --- | --- |
-| 💡 **Tip** | A helpful habit or shortcut |
-| ⚠️ **Warning** | Something that can cause errors or data loss |
-| 🧠 **Concept** | The OS idea behind the command |
-| 🧪 **Try it** | A short exercise to run yourself |
-| 👨‍🏫 **Instructor Tip** | Guidance for the person teaching |
-
-> **Convention used in code blocks:** lines starting with `PS>` are commands you type (do not type the `PS>`). Lines without it are example output. Lines beginning with `#` are comments and are ignored by PowerShell.
-
-### Suggested 3-Hour Lab Timeline
-
-| Time | Activity | Sections |
-| --- | --- | --- |
-| 0:00 – 0:20 | Concepts: PowerShell, cmdlets, objects | 1 – 7 |
-| 0:20 – 0:40 | Help system and file management | 8 – 16 |
-| 0:40 – 1:05 | Variables, input/output, processes, services | 17 – 23 |
-| 1:05 – 1:35 | Pipeline, system and network information | 24 – 30 |
-| 1:35 – 2:00 | Conditions, loops, scripting basics | 31 – 38 |
-| 2:00 – 2:50 | Hands-on activity and lab task | 39 – 42, 49 |
-| 2:50 – 3:00 | Knowledge check and wrap-up | 47 – 50 |
-
----
 
 # PART A — FOUNDATIONS
 
